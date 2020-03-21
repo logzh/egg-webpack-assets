@@ -1,6 +1,6 @@
 {
   "name": "egg-webpack-assets",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "egg-webpack-assets",
   "eggPlugin": {
     "name": "webpackAssets"
