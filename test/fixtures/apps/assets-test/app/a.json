@@ -1,0 +1,9 @@
+{
+  "manifest": {
+    "js": "/static/build/manifest.js"
+  },
+  "test": {
+    "css": "/static/build/test.css",
+    "js": "/static/build/test.js"
+  }
+}
