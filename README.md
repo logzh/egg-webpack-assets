@@ -6,7 +6,7 @@
 // {app_root}/config/plugin.js
 exports.webpackAssets = {
   enable: true,
-  package: '@tencent/egg-webpack-assets',
+  package: 'egg-webpack-assets',
 };
 ```
 
